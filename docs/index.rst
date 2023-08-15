@@ -3,10 +3,6 @@
 Welcome to Our documentation!
 ===================================
 
-.. note::
-
-   Ongoing development of this project is led by `KNOT35 <https://www.knot35.com/>`_
-
 Contents
 --------
 
@@ -16,3 +12,7 @@ Contents
    other/literature/index
    reference/command-line/index
    faq/index
+
+.. note::
+
+   Ongoing development of this project is led by `KNOT35 <https://www.knot35.com/>`_
