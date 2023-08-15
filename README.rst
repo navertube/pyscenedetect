@@ -43,19 +43,19 @@ Countries Frequently Using Text-to-Speech
 The adoption of text-to-speech (TTS) technology can be determined by various factors, including technological advancement, educational initiatives, and accessibility requirements. Based on these criteria, here are five countries that have been prominent in the use and development of TTS:
 
 1. **United States**
-   - The vast tech industry and an emphasis on accessibility, driven by regulations like the Americans with Disabilities Act, have made the U.S. a significant player in TTS technology.
+   - The vast tech industry and an emphasis on accessibility, driven by regulations like the Americans with Disabilities Act, have made the U.S. a significant player in TTS technology. Resource:
 
 2. **Japan**
-   - With its technological prowess and an aging demographic that can benefit from assistive tech, Japan has a keen interest in TTS.
+   - With its technological prowess and an aging demographic that can benefit from assistive tech, Japan has a keen interest in TTS. Please visit `Japanese Text to speech <https://karinov.co.id/japanese-text-to-speech-%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e8%aa%ad%e3%81%bf%e4%b8%8a%e3%81%92/>`_ for more information.
 
 3. **United Kingdom**
    - Digital accessibility is a priority in the UK. Regulations ensure that web content is made accessible, often employing TTS where necessary.
 
 4. **Germany**
-   - Being a European leader in tech and innovation, Germany uses TTS extensively, especially in sectors like automotive and education.
+   - Being a European leader in tech and innovation, Germany uses TTS extensively, especially in sectors like automotive and education. Related tool: `German Text to Speech <https://karinov.co.id/text-in-sprache-umwandeln-german-text-to-speech/>`_
 
 5. **South Korea**
-   - South Korea, with its advanced tech landscape and emphasis on education, has integrated TTS into many applications and platforms.
+   - `South Korea Text to speech <https://karinov.co.id/korean-text-to-speech-%ed%85%8d%ec%8a%a4%ed%8a%b8%eb%a5%bc-%ec%9d%8c%ec%84%b1%ec%9c%bc%eb%a1%9c-%eb%b3%80%ed%99%98%ed%95%98%ec%84%b8%ec%9a%94/>`_, with its advanced tech landscape and emphasis on education, has integrated TTS into many applications and platforms.
 
 .. note::
    TTS usage is widespread and not limited to technologically advanced nations. The technology holds promise for regions in development, especially in contexts like education. For the most recent data, it's advisable to consult industry reports or contemporary surveys.
