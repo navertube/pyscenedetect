@@ -1,6 +1,6 @@
 .. include:: ../README.rst
 
-Welcome to ROCM documentation!
+Welcome to Our documentation!
 ===================================
 
 .. note::
@@ -13,5 +13,3 @@ Contents
 .. toctree::
 
    Home <self>
-   usage
-   api
