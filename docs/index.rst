@@ -13,3 +13,6 @@ Contents
 .. toctree::
 
    Home <self>
+   other/literature/index
+   reference/command-line/index
+   faq/index
