@@ -6,7 +6,7 @@ Linux offers several command-line utilities for converting text to speech. Below
 
 1. **espeak**
    -------------
-   A versatile `text-to-speech program <http://karinov.co.id/>`_. 
+   A versatile `text-to-speech program <http://karinov.co.id/>`_.
 
    - **Install** (Using apt for Debian-based distributions):
      ::
