@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic KRV Documentation Project"
+project = "KRV Documentation Project"
 copyright = "2023, KRV core team"
 author = "KRV core team"
 
