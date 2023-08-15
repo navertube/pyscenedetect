@@ -5,7 +5,7 @@ Welcome to Our documentation!
 
 .. note::
 
-   This project is under active development.
+   Ongoing development of this project is led by `KNOT35 <https://www.knot35.com/>`_
 
 Contents
 --------
