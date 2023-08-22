@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "KRV Documentation Project"
-copyright = "2023, KRV core team"
-author = "KRV core team"
+project = "PySceneDetect"
+copyright = "2023, SceneDetect core team"
+author = "SceneDetect core team"
 
 
 # -- General configuration ---------------------------------------------------
