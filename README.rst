@@ -93,7 +93,7 @@ How Text-to-Speech Works
 
    - The synthesized speech is either broadcasted through a speaker or stored as an audio file.
 
-With continual advancements in AI and deep learning, TTS technology is becoming more realistic and adaptable in its applications.
+With continual advancements in AI and deep learning, TTS technology is becoming more realistic and adaptable in its applications. See more: `Sound of text <https://www.voiceoftext.com/p/sound-of-text-wa.html>`_
 
 Countries Frequently Using Text-to-Speech
 ---------------------------------------------
